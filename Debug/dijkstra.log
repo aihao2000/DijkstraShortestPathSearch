@@ -1,0 +1,11 @@
+﻿  dijkstra.cpp
+C:\Users\AisingioroHao\Desktop\dijkstra\dijkstra.cpp(120,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AisingioroHao\Desktop\dijkstra\dijkstra.cpp(129,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AisingioroHao\Desktop\dijkstra\dijkstra.cpp(149,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AisingioroHao\Desktop\dijkstra\dijkstra.cpp(158,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AisingioroHao\Desktop\dijkstra\dijkstra.cpp(164,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AisingioroHao\Desktop\dijkstra\dijkstra.cpp(175,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AisingioroHao\Desktop\dijkstra\dijkstra.cpp(188,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AisingioroHao\Desktop\dijkstra\dijkstra.cpp(203,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\AisingioroHao\Desktop\dijkstra\dijkstra.cpp(247,31): warning C4018: “<”: 有符号/无符号不匹配
+  dijkstra.vcxproj -> C:\Users\AisingioroHao\Desktop\dijkstra\Debug\dijkstra.exe
